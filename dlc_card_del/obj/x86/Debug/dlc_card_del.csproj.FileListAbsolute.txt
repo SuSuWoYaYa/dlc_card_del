@@ -1,0 +1,7 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Debug\dlc_card_del.Form1.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Debug\dlc_card_del.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Debug\dlc_card_del.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\bin\Debug\dlc_card_del.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\bin\Debug\dlc_card_del.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Debug\dlc_card_del.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Debug\dlc_card_del.pdb
