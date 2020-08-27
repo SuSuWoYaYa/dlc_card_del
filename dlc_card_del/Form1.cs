@@ -47,7 +47,8 @@ namespace dlc_card_del
             textBox2.Text = "连接数据库..."; 
             textBox2.Text += "\r\n";
 
-            string SQLCONNECT = @"server=192.168.9.100;database=dlcpro;uid=sa;pwd=";
+            //string SQLCONNECT = @"server=192.168.9.100;database=dlcpro;uid=sa;pwd=";
+            string SQLCONNECT = @"server=127.0.0.1;database=dlcpro;uid=sa;pwd=";
             SqlConnection conn = new SqlConnection(SQLCONNECT);
             conn.Open();
             textBox2.Text += "打开数据库...";
@@ -171,6 +172,8 @@ namespace dlc_card_del
 
 
             conn.Close();
+
+            button2.Enabled = false;
         }
 
        
