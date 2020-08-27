@@ -5,4 +5,3 @@ d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_d
 d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.csproj.GenerateResource.Cache
 d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.exe
 d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.pdb
-d:\用户目录\我的文档\visual studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.csprojResolveAssemblyReference.cache
