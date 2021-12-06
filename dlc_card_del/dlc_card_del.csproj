@@ -35,6 +35,7 @@
   <PropertyGroup>
     <ApplicationIcon>root.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
