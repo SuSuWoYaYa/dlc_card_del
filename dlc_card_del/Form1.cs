@@ -33,7 +33,8 @@ namespace dlc_card_del
             //string id = "";
 
             //检查工号
-            if (textBox1.Text.Equals("") || textBox1.Text.Length < 8)
+            
+            if (String.IsNullOrEmpty(textBox1.Text))
             {
                 MessageBox.Show("检查工号");
                 return;

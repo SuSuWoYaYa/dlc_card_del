@@ -5,3 +5,10 @@ D:\用户目录\我的文档\Visual Studio 2010\Projects\dlc_card_del\dlc_card_d
 D:\用户目录\我的文档\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.csproj.GenerateResource.Cache
 D:\用户目录\我的文档\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.exe
 D:\用户目录\我的文档\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\bin\Release\dlc_card_del.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\bin\Release\dlc_card_del.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dlc_card_del\dlc_card_del\obj\x86\Release\dlc_card_del.csproj.GenerateResource.Cache
